@@ -49,7 +49,7 @@
            
         </tr>
         <tr>
-        <th>4</th>
+        <th>3</th>
             <td>saloni</td>
             <td>4</td>
            
@@ -57,7 +57,7 @@
            
         </tr>
         <tr>
-         <th>5</th>
+         <th>4</th>
             <td>abhay</td>
             <td>5</td>
             <td>5</td>
